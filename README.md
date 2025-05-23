@@ -22,6 +22,9 @@
 #### 🧭 [0U Trip Planner](https://jamongfriend.github.io/trip-planner.html)
 > 여행 계획 작성/공유 웹 플랫폼 (Node.js + React)
 
+> #### 📱 [0U Trip Planner (Android)](https://jamongfriend.github.io/trip-planner-android.html)
+> 백엔드 연동 Android 앱 (Java, Android Studio)
+
 #### 📚 [Library Management System](https://jamongfriend.github.io/library-system.html)
 > Spring Boot 기반 도서 관리 시스템
 
@@ -33,9 +36,6 @@
 
 #### 🌿 [Soul of Herb Seller](https://jamongfriend.github.io/soul-of-herb-seller.html)
 > 언리얼 블루프린트 게임: 채집, 전투, 보스 시스템 구현
-
-#### 📱 [0U Trip Planner (Android)](https://jamongfriend.github.io/trip-planner-android.html)
-> 백엔드 연동 Android 앱 (Java, Android Studio)
 
 ---
 
