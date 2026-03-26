@@ -19,7 +19,7 @@
 
 ### 📂 대표 프로젝트
 
-#### [Chatzar](https://jamongfriend.github.io/Chatzar.html)
+#### [Chatzar](https://jamongfriend.github.io/Chatzar)
 > 실시간 랜덤 채팅 모바일 플랫폼 (SpringBoot, Java, WebSocket, Android Studio)
 
 #### 🧭 [0U Trip Planner](https://jamongfriend.github.io/0UTripPlanner.html)
