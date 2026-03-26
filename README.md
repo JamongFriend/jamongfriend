@@ -19,22 +19,19 @@
 
 ### 📂 대표 프로젝트
 
-#### 🧭 [0U Trip Planner](https://jamongfriend.github.io/trip-planner.html)
-> 여행 계획 작성/공유 웹 플랫폼 (Node.js + React)
+#### [Chatzar](https://jamongfriend.github.io/Chatzar.html)
+> 실시간 랜덤 채팅 모바일 플랫폼 (SpringBoot, Java, WebSocket, Android Studio)
 
-> #### 📱 [0U Trip Planner (Android)](https://jamongfriend.github.io/trip-planner-android.html)
-> 백엔드 연동 Android 앱 (Java, Android Studio)
+#### 🧭 [0U Trip Planner](https://jamongfriend.github.io/0UTripPlanner.html)
+> 여행 계획을 생성하고 공유할 수 있는 웹 플랫폼 (Node.js + React)
 
-#### 📚 [Library Management System](https://jamongfriend.github.io/library-system.html)
+> #### 📱 [0U Trip Planner (Android)](https://jamongfriend.github.io/0UTripPlannerAndroid.html)
+> 여행 계획을 생성하고 공유할 수 있는 모바일 플랫폼 (Java, Android Studio)
+
+#### 📚 [Library Management System](https://jamongfriend.github.io/LibraryManagement.html)
 > Spring Boot 기반 도서 관리 시스템
 
-#### 🛒 [Shopping Platform](https://jamongfriend.github.io/shopping-platform.html)
-> 상품 주문 및 배송 기능 포함 쇼핑 시스템
-
-#### 🍱 [Unmanned Order Machine](https://jamongfriend.github.io/unmanned-order-machine.html)
-> Java 기반 콘솔 키오스크 주문 프로그램
-
-#### 🌿 [Soul of Herb Seller](https://jamongfriend.github.io/soul-of-herb-seller.html)
+#### 🌿 [Soul of Herb Seller](https://jamongfriend.github.io/SoulofHerbSeller.html)
 > 언리얼 블루프린트 게임: 채집, 전투, 보스 시스템 구현
 
 ---
