@@ -19,19 +19,19 @@
 
 ### 📂 대표 프로젝트
 
-#### [Chatzar](https://jamongfriend.github.io/Chatzar)
+#### [Chatzar](https://jamongfriend.github.io/projects/Chatzar.html)
 > 실시간 랜덤 채팅 모바일 플랫폼 (SpringBoot, Java, WebSocket, Android Studio)
 
-#### 🧭 [0U Trip Planner](https://jamongfriend.github.io/0UTripPlanner.html)
+#### 🧭 [0U Trip Planner](https://jamongfriend.github.io/projects/0UTripPlanner.html)
 > 여행 계획을 생성하고 공유할 수 있는 웹 플랫폼 (Node.js + React)
 
-> #### 📱 [0U Trip Planner (Android)](https://jamongfriend.github.io/0UTripPlannerAndroid.html)
+> #### 📱 [0U Trip Planner (Android)](https://jamongfriend.github.io/projects/0UTripPlannerAndroid.html)
 > 여행 계획을 생성하고 공유할 수 있는 모바일 플랫폼 (Java, Android Studio)
 
-#### 📚 [Library Management System](https://jamongfriend.github.io/LibraryManagement.html)
+#### 📚 [Library Management System](https://jamongfriend.github.io/projects/LibraryManagement.html)
 > Spring Boot 기반 도서 관리 시스템
 
-#### 🌿 [Soul of Herb Seller](https://jamongfriend.github.io/SoulofHerbSeller.html)
+#### 🌿 [Soul of Herb Seller](https://jamongfriend.github.io/projects/SoulofHerbSeller.html)
 > 언리얼 블루프린트 게임: 채집, 전투, 보스 시스템 구현
 
 ---
